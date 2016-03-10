@@ -228,10 +228,8 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "tosticker",
-    "tophoto",
+    "addplugins",
     "setplug",
-    "img",
     "admin"
     },
     sudo_users = {150575718},--Sudo users
