@@ -220,7 +220,7 @@ function create_config( )
     "Plugins",
     "locklink",
     "setrank",
-    "mainfucker",
+    "wordfilter",
     "set",
     "get",
     "broadcast",
@@ -228,6 +228,10 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
+    "tosticker",
+    "tophoto",
+    "setplug",
+    "img",
     "admin"
     },
     sudo_users = {150575718},--Sudo users
